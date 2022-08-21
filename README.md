@@ -1,0 +1,2 @@
+# KosulluIfadelerveKodBloklari
+Ödev Listesi
